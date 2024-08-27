@@ -1,0 +1,387 @@
+################################
+##                            ##
+##     HOOKS CONFIGURATION    ##
+##                            ##
+################################
+
+
+autosell-integration:
+  enabled: true
+  toggle-on-join: true
+
+shopgui-plus-integration:
+  enabled: true
+
+
+################################
+##                            ##
+##    B/WLIST CONFIGURATION   ##
+##                            ##
+################################
+
+
+# Items to be allowed in backpacks
+whitelist:
+  enabled: false # If disabled, this check will be ignored
+  items: # These are the only items which will be allowed the backpacks
+  - DIRT
+  - IRON_INGOT
+
+blacklist:
+  enabled: true # If disabled, this check will be ignored
+  items: # These are the i
+  - DIAMOND_SWORD
+
+
+################################
+##                            ##
+##   BACKPACKS CONFIGURATION  ##
+##                            ##
+################################
+
+# This will enable sack refilling.
+# If a sack is being held in the offhand while building, it will automatically refill
+# from the player building material from the sack (if applicable)
+sacks-refilling: true
+
+# Setting this to true will allow playes to view the contents
+# of their backpacks if they have the preview mod installed.
+# Leaving this as false will disable the preview feature (and can improve performance)
+backpack-preview: true
+backpack-cooldown: 3 # The number of seconds between backpack openings. (can lessen load on server)
+
+# If any of these is set to "false" the player will not be able to open their backpack.
+# If you want to disable this feature, simply leave the list empty, or leave a single line saying "true"
+backpack-open-placeholders:
+- "true"
+# - %world_haspermission_<permission>_<world>%
+
+# If any of these are equal to "true", the player will not be able to open their backpack.
+backpack-prevent-open-placeholders:
+- "false"
+# - "%pvpmanager_is_in_combat%"
+
+
+# This is used when rendering anything related to usage. 
+backpack-progress-bar:
+  character-used: "\u2589" # This is the character which shows up for used slots
+  character-empty: "\u2589" # This is the character which shows up for empty slots
+  character-used-color: "&a" # This is the color for used slots
+  character-empty-color: "&7" # This is the color for empty slots
+  bar-length: 10 # This is the length of the bar.
+
+locked-slot:
+  # If you are on 1.13 or above, you can use the following:
+  type: BLACK_STAINED_GLASS_PANE 
+  # model_data: 2 # Applies the custom model data tag on the locked slot
+
+  # If you are on 1.12 or below, you can use the following:
+  # data: 15
+
+
+backpacks:
+  common_bp: # The name can be anything, but needs to be unique across both backpacks and sacks.
+    size: 9 # The size for a backpack
+    inventory_title: "&aCommon backpack &8[%slots% Slots]" # The title you get when opening the inventory
+    # permission: "backpacks.common" # OPTIONAL. If set, the player will need this permission to open the backpack
+    # model_data: 2 # OPTIONAL. Sets the CustomModelData for this item, to use with custom texture packs
+    # These are optional
+    # open_sound: 
+    #   sound_type: BLOCK_CHEST_OPEN
+    #   volume: 1.0
+    #   pitch: 1.0
+    #   listener: PLAYER # This means only the player who opened the backpack 
+    #                    # can hear the sound. Can also be ALL, so everyone hears it
+    # close_sound:
+    #   sound_type: BLOCK_CHEST_CLOSE
+    #   volume: 1.0
+    #   pitch: 1.0
+    #   listener: PLAYER
+    item:
+      type: PLAYER_HEAD # The item used to display it as a backpack
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjIxMjhmNDhkOTk3MTg2NTYzZmJjNWI0N2E4OGMwZDBhYWM5MmZhMmMyODVjZDFmYWU0MjBjMzRmYThmMjAxMCJ9fX0="
+      # model_data: 2 # OPTIONAL. Sets the CustomModelData for this item, to use with custom texture packs
+      name: "&aCommon Backpack &7[%slots% Slots]" # The item name 
+      lore: # The item lore
+        - ""
+        - "&7A backpack with %slots% slots"
+        - "&7in which you can place items!"
+    # Optional, this will override the global lists.
+    whitelist:
+      enabled: false # This will toggle off this check.
+      items: # These are the only items which will be allowed
+      - DIRT
+      - IRON_INGOT
+    blacklist:
+      enabled: false
+      items: # These will not be allowed
+      - DIAMOND_SWORD
+  uncommon_bp:
+    size: 18
+    inventory_title: "&bUncommon backpack &8[%slots% Slots]"
+    item:
+      type: PLAYER_HEAD 
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODJjMzdiZmExMTg2M2QwMDI1NTFhMDJiNTE5ZDcxNTRkYTgyNjcwNWQyMDk4MjU5MTUyMmRlMmVhMWIyODhjMiJ9fX0="
+      name: "&bUncommon Backpack &7[%slots% Slots]"
+      lore:
+        - ""
+        - "&7A backpack with %slots% slots"
+        - "&7in which you can place items!"
+  rare_bp:
+    size: 27
+    inventory_title: "&9Rare backpack &8[%slots% Slots]"
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2U1YWJkYjczNzQ1NTNkMDU2NWNiY2IzMjk1YWVkNTE1YTg5N2ViY2U5ZTBiYzYwZjFjMWY4YWU1NGM3NDlkZiJ9fX0="
+      name: "&9Rare Backpack &7[%slots% Slots]"
+      lore:
+      - ""
+      - "&7A backpack with %slots% slots"
+      - "&7in which you can place items!"
+  epic_bp:
+    size: 36
+    inventory_title: "&5Epic Backpack &8[%slots% Slots]"
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjE4N2M3MzJhYTM5ZDI5MTM0NjUwYjZhNzJjNmY0MWI5OTA4NWEyNmVjNWU1MTNiYTE4YzQwZDVlY2E5ZTY5YyJ9fX0="
+      name: "&5Epic Backpack &7[%slots% Slots]"
+      lore:
+      - ""
+      - "&7A backpack with %slots% slots"
+      - "&7in which you can place items!"
+  legendary_bp:
+    size: 54
+    inventory_title: "&6Legendary backpack &8[%slots% Slots]"
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjcwYjU2MjJiN2QwNjhmNTc4OGJmMTlhODM5ODM5MzdiMTZjNTk3MmM5MWY1ZWU3YmY1NGJjYzM2MzhmOWEzNiJ9fX0="
+      name: "&6Legendary Backpack &7[%slots% Slots]"
+      lore:
+      - ""
+      - "&7A backpack with %slots% slots"
+      - "&7in which you can place items!"
+
+
+################################
+##                            ##
+##     SACKS CONFIGURATION    ##
+##                            ##
+################################
+
+
+sacks:
+  common_sack: # The name can be anything, but needs to be unique across both backpacks and sacks.
+    size: 150 # This means it can store 150x64 items (9600 items)
+    item:
+      type: PLAYER_HEAD # The item used to display it as a sack
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzY3ZmU1ZTNlMmY3YmY5MmVhYTZmMjAyNzYxYzEwZWMzMmRhZjNhMmEyYWRlYzFkYmJhY2E4M2M1ZjcxNmRhNSJ9fX0="
+      name: "&aCommon Sack &7[%slots% Slots]" # The item name
+      lore: #The item lore
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+      lore-full:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+        - ""
+        - "&7Contents: &e%amount% %item%"
+        - ""
+        - "&7Usage: %capacity_bar% &7(%percentage%% used)"
+  uncommon_sack:
+    size: 250
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjZhNjg4NmU4NGVhZTViYTJiMmI2MDI0MzI0MjljNmZiMjg2OTFmYzAyZTlmOWNjYjVjNTdmMmNkZDBmMWQ4In19fQ=="
+      name: "&bUncommon Sack &7[%slots% Slots]"
+      lore:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+      lore-full:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+        - ""
+        - "&7Contents: &e%amount% %item%"
+        - ""
+        - "&7Usage: %capacity_bar% &7(%percentage%% used)"
+  rare_sack:
+    size: 500
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg2MGJjOWE1NTQ2ZGQxMDliODYwZDc1NWNmYjNjYWNiYWQ4Y2FjZTcxMGYzZDIwNjE0ZDI2MDRlYmVlNmU2MyJ9fX0="
+      name: "&9Rare Sack &7[%slots% Slots]"
+      lore:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+      lore-full:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+        - ""
+        - "&7Contents: &e%amount% %item%"
+        - ""
+        - "&7Usage: %capacity_bar% &7(%percentage%% used)"
+  epic_sack:
+    size: 900
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTliZWRjYWVkZjUxYmQ2NTYxZDU2MGFiYTFjZjg0ZDVmNWZiODMyODZkOGYxY2M3NDFjYWYxOWViMjQwMjJjMSJ9fX0="
+      name: "&5Rare Sack &7[%slots% Slots]"
+      lore:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+      lore-full:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+        - ""
+        - "&7Contents: &e%amount% %item%"
+        - ""
+        - "&7Usage: %capacity_bar% &7(%percentage%% used)"
+  legendary_sack:
+    size: 1500
+    item:
+      type: PLAYER_HEAD
+      skull_data: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGUyNzM4Y2FmNDZjNWEyMDMyOWM0Y2Y4ODBiZGMwY2U1ZjkwOWY3YTgxMmRmOWM1OTFkYmJjNTJjZGM0ODkxNCJ9fX0="
+      name: "&6Legendary Sack &7[%slots% Slots]"
+      lore:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+      lore-full:
+        - ""
+        - "&7This is a sack in which you can place"
+        - "&7one unique item type."
+        - ""
+        - "&7Contents: &e%amount% %item%"
+        - ""
+        - "&7Usage: %capacity_bar% &7(%percentage%% used)"
+
+
+################################
+##                            ##
+##   CRAFTING CONFIGURATION   ##
+##                            ##
+################################
+
+
+enable_crafting: disabled # If toggled off, crafting backpacks will not be enabled
+crafting_recipes:
+  recipe_for_common: # This can be named anything, but has to be unique
+    # Recipes for backpacks start here
+
+    result: common_bp
+    # Warning. The pattern always has to be 3x3. If you want to leave empty spaces,
+    # Create a new alias, and set it to AIR
+    pattern: 
+    - "S S S"           #                                          STONE STONE STONE
+    - "S E S"           # This will basically get translated into  STONE CHEST STONE -> common_bp
+    - "S S S"           #                                          STONE STONE STONE
+    aliases:   # What each of the letters mean
+      S: STONE 
+      E: CHEST 
+  recipe_for_uncommon:
+    result: uncommon_bp 
+    pattern:
+    - "I I I"
+    - "I E I"
+    - "I I I"
+    aliases:
+      I: IRON_INGOT  # List of material can be found https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+      E: common_bp # You can use any valid material, or backpack, or sack type
+  recipe_for_rare:
+    result: rare_bp 
+    pattern:
+    - "G G G" # These characters can be any one of a-z, A-Z, 0-9
+    - "G E G"
+    - "G G G"
+    aliases:
+      G: GOLD_INGOT
+      E: uncommon_bp
+  recipe_for_epic:
+    result: epic_bp 
+    pattern:
+    - "A D A"
+    - "D E D"
+    - "A D A"
+    aliases:
+      D: DIAMOND
+      E: rare_bp
+      A: AIR # This can be used for empty slots
+  recipe_for_legendary:
+    result: legendary_bp 
+    pattern:
+    - "A G A"
+    - "G E G"
+    - "A G A"
+    aliases:
+      E: DIAMOND_BLOCK
+      G: epic_bp
+      A: AIR
+
+  # This is a recipe which will allow a player to convert a common bp into a common sack
+  recipe_for_common_sack_from_bps:
+    result: common_sack
+    pattern:
+    - "A G A"
+    - "A E A"
+    - "A A A"
+    aliases:
+      E: common_bp
+      G: DIAMOND
+      A: AIR
+
+  # Recipes for sacks start here
+  recipe_for_common_sack:
+    result: common_sack
+    pattern: 
+    - "S S S"         
+    - "S E S"         
+    - "S S S"         
+    aliases:
+      S: STONE 
+      E: DIAMOND 
+  recipe_for_uncommon_sack:
+    result: uncommon_sack
+    pattern: 
+    - "S S S"         
+    - "S E S"         
+    - "S S S"         
+    aliases:
+      S: IRON_INGOT 
+      E: common_sack
+  recipe_for_rare_sack:
+    result: rare_sack
+    pattern: 
+    - "S S S"         
+    - "S E S"         
+    - "S S S"         
+    aliases:
+      S: GOLD_INGOT 
+      E: uncommon_sack
+  recipe_for_epic_sack:
+    result: epic_sack
+    pattern:
+    - "A D A"
+    - "D E D"
+    - "A D A"
+    aliases:
+      D: DIAMOND
+      E: rare_sack
+      A: AIR
+  recipe_for_legendary_sack:
+    result: legendary_sack
+    pattern:
+    - "A G A"
+    - "G E G"
+    - "A G A"
+    aliases:
+      E: DIAMOND_BLOCK
+      G: epic_sack
+      A: AIR
+   
+#Mla0tmZNNkM1QlTMBHRJp0MNpmT5NmaNhXSU1UMNRUT5d3RTdlM0gXWkl0d2MnR0cVOEdFN

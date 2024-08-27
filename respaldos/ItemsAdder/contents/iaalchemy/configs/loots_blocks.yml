@@ -1,0 +1,12 @@
+info:
+  namespace: iaalchemy
+loots:
+  blocks:
+    nether_alchemy_ore:
+      type: iaalchemy:nether_alchemy_ore
+      items:
+        healing_crystals:
+          item: iaalchemy:healing_crystals
+          min_amount: 1
+          max_amount: 1
+          chance: 10

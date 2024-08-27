@@ -1,0 +1,74 @@
+messages:
+  MTBackpack:
+    prefix: '&7[&cMTBackpack&7] '
+    messages:
+      cant-open-storage: '&cYou cannot open that right now!'
+      backpack-cooldown: '&cPlease wait a bit before doing this!'
+      space-required: '&cThis backpack will not be able to hold all the items and
+        some will be lost! Click again to confirm!'
+      update-done: '&7Update has &acompleted! &7%backpack% backpacks modified and
+        %items% items lost.'
+      autosell-toggle-off: '&cToggled backpack AutoSelling off'
+      types-list:
+      - '&7&m                     '
+      - '&7Backpack types: &c%backpacks%'
+      - '&7Sack types: &c%sacks%'
+      - '&7&m                     '
+      item-not-allowed: '&cYou cannot put that item in your backpack!'
+      sack-contents:
+      - '&8&m                              '
+      - '&7 This sack contains: '
+      - '&a   %item% &ex%amount%'
+      - '&8&m                              '
+      autosell-toggle-on: '&aToggled backpack AutoSelling on'
+      invalid-default: '&cThat default is invalid!'
+      sack-unable: '&cYour sack is either full or you are using the wrong item!'
+      only-player: '&cYou need to be a player to do that!'
+      slot-locked-lore:
+      - ''
+      - '&8Upgrade your backpack to'
+      - '&8unlock this slot.'
+      given-sack: '&7Given a %sack% sack to %player%'
+      help-message:
+      - '&7&m---------------&c MTBackpack &7&m---------------'
+      - '[suggest value="/bp help" text="&cClick me to show the command!"]&c/bp help
+        &7 - Shows the help menu for the plugin[/suggest]'
+      - '[suggest value="/bp reload" text="&cClick me to show the command!"]&c/bp
+        reload&7 - Reloads the plugin[/suggest]'
+      - '[suggest value="/bp types" text="&cClick me to show the command!"]&c/bp types
+        &7 - Lists all types of backpacks[/suggest]'
+      - '[suggest value="/bp give" text="&cClick me to show the command!"]&c/bp give
+        <type> [target] [size]&7 - Gives a backpack to a target[/suggest]'
+      - '[suggest value="/bp setsize" text="&cClick me to show the command!"]&c/bp
+        setsize <player> <size>&7 - Sets the size of the held backpack[/suggest]'
+      - '[suggest value="/bp recipe" text="&cClick me to show the command!"]&c/bp
+        recipe <type>&7 - Preview the recipe for a backpack[/suggest]'
+      - '[suggest value="/bp update <type> [default] [size]" text="&cClick me to show
+        the command!"]&c/bp update <type> [default] [size]&7 - Modify all backpacks[/suggest]'
+      - '&7&m---------------&c MTBackpack &7&m---------------'
+      no-recipe-backpack: '&cThat backpack doesn''t have a recipe!'
+      plugin-reloaded: '&7Reloaded the plugin!'
+      invalid-target: '&cThe player %player% is not online!'
+      sack-empty: '&cThis sack is empty!'
+      sack-creative: '&cYou seem to be using Sacks in creative mode. This won''t work!'
+      given-backpack: '&7Given a %backpack% backpack to %player%'
+      slot-locked-name: '&cThis slot is locked'
+      no-permission: '&cYou are not allowed to do that!'
+      no-recipes-available: '&cThere are no recipes available!'
+      update-cannot-open: '&7Please wait a bit before opening your backpack! An update
+        is going on!'
+      autosell-no-backpack: '&cYou don''t have a backpack!'
+      update-command:
+      - '&7This command will modify the size of &call &7backpacks of a certain type.
+        If &cdefault &7is set to &cfalse &7then backpacks which are not the size in
+        the config will also be updated, which will cause players to &close any upgrades
+        &7they have on their backpacks. If no size is specified the one from the config
+        will be used. Using a smaller size than the previous one will cause item loss.
+        This command will not impact the config'
+      backpack-armor: '&cYou cannot put a backpack in your armor slot!'
+      invalid-size: '&cThat size is invalid!'
+      invalid-backpack: '&cYou are not holding a backpack!'
+      invalid-type: '&cThat type is invalid!'
+      update-running: '&7Updating backpacks. This might take a while!'
+      changed-backpack-size: '&7Changed the size of that backpack!'
+      cannot-open-permission: '&cYou don''t have permission to open this backpack!'
