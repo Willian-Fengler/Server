@@ -1,528 +1,4230 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1724781765635 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1724800830851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781768712 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800833908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781771795 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800836968 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781774886 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800840029 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781777976 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800843096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781781095 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800846160 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781784182 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800849225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781787265 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800852386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781790355 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800855467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781793490 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800858524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781796584 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800861603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781799659 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800864661 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781802739 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800867718 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781805827 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800870827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781808909 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800873886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781811994 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800876947 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781815386 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800880018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781818465 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800883078 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781821541 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800886144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781824624 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800889203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781827705 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800892260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781830791 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800895317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781833871 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800898373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781836976 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800901450 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781840055 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800904508 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781843137 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800907583 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781846228 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800910654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781849305 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800913707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781852384 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800916787 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781855472 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800919854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781858803 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800922909 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781861881 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800925966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781864961 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800929022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781868039 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800932082 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781871123 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800935134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781874299 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800938190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781877382 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800941259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781880466 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800944319 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781883547 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800947380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781886659 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800950449 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781889745 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800953510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781892827 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800956577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781895903 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800959643 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781898983 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800962718 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781902067 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800965776 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781905168 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800968832 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781908263 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800971902 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781911354 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800974967 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781914432 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800978023 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781917514 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800981101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781920587 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800984156 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781923673 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800987209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781926763 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800990263 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781929852 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800993336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781932950 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800996401 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781936028 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724800999457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781939113 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801002518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781942194 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801005582 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781945284 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801008640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781948362 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801011701 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781951458 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801014759 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781954550 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801017810 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781957635 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801020878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781960787 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801023954 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781963868 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801027069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781966947 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801030126 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781970019 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801033182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781973102 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801036245 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781976175 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801039309 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781979255 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801042363 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781982332 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801045424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781985414 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801048476 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781988576 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801051553 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781991652 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801054621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781994740 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801057677 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724781997863 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801060738 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782000974 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801063798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782004054 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801066885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782007133 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801069940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782010217 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801072994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782013298 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801076107 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782016385 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801079168 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782019463 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801082227 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782022543 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801085285 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782025619 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801088341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782028694 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801091400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782031776 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801094451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.22): 1724782034877 tunnel running, 2 tunnels registered
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801097520 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-modern-ta.gl.at.ply.gg:1972 => 127.0.0.1:19132 (minecraft-bedrock)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801100592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801103650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801106727 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801109783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801112857 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801115917 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801119061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801122116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801125179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801128242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801131322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801134386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801137475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801140533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801143592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801146654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801149721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801152787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801155854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801158916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801161980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801165038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801168101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801171184 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801174242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801177365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801180427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801183487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801186552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801189609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801192680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801195741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801198812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801201869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801204939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801208002 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801211056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801214118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801217176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801220231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801223286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801226351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801229438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801232503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801235558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801238625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801241697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801244761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801247820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801250880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801253937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801256996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801260057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801263140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801266479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801269547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801272615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801275687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801278754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801281841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801284903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801287965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801291040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801294101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801297171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801300236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801303302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801306357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801309417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801312482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801315539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801318596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801321668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801324735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801327807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801330877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801333996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801337060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801340114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801343172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801346237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801349299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801352356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801355418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801358475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801361546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801364611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801367674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801370735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801373792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801376851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801379908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801382970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801386032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801389095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801392151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801395224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801398291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801401372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801404432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801407487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801410554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801413610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801416674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801419739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801422828 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801425888 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801428956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801432022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801435076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801438130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801441189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801444248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801447309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801450367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801453420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801456476 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801459539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801462604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801465662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801468733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801471793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801474898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801477966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801481025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801484085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801487145 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801490217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801493281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801496339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801499392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801502453 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801505512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1724801520597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801523654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801526707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801529768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801532836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801535894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801538946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801542010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801545077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801548140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801551210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801554279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801557331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801560388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1724801575488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801578542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801581604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801584673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801587726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801590782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801593960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801597018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801600077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801603138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801606194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801609279 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801612340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801615398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801618465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801621524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801624582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801627646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801630702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801633755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801636820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801639879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801642942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801645995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801649049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801652105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801655160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801658213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801661268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801664327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801667390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801670457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801673515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801676582 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801679653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801682711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801685782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801688851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801691918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801694989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801698054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801701115 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801704167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801707222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801710283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801713351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801716416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801719483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801722537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801725600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801728656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801731716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801734773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801737829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801740884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801743937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801746989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801750048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801753107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801756198 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801759263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801762324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801765386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801768465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801771530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801774591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801777653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801780715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1724801795800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801798869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801801932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801804992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801808044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801811099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801814157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801817211 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801820285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801823341 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801826398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801829463 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801832526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801835613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801838675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801841738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801844802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801847871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801850940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801854007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801857086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801860153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801863210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801866283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801869343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801872443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801875523 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801878815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801881880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801884956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801888026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801891105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801894170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801897236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801900292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801903355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801906426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801909484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801912544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801915608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801918668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801921750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801924810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801927881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801930959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801934025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801937093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801940155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801943214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801946284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801949370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801952433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801955490 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801958553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801961615 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801964676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801967740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801970796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801973864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801976924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801979986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801983047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801986107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801989177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801992317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801995380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724801998460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802001577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802004632 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802007691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802010750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802013809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802016864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802019933 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802022987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802026077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802029149 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802032206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802035260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802038316 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802041383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1724802056488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802059543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802062602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802065676 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802068742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802071810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802074880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802077949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802081009 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802084072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802087128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802090194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802093255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802096312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802099372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802102452 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802105535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802108592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802111658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802114718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802117780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802120844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802123902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802126973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802130036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802133100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802136157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802139217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802142287 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802145354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802148416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802151506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802154574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802157640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802160721 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802163810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802166868 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802169924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802172987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802176048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802179112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802182180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802185244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802188308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802191366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802194428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802197485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802200545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802203608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802206668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802209726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802212788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802215850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802218983 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802222039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802225117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802228172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802231232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802234293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802237356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802240411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802243467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802246525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802249586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802252699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802255761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802258821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802261881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802264938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802267997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802271056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802274114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802277175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802280233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802283296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802286359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802289417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802292480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802295536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802298595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802301661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802304730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802307796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802310865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802313928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802317037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802320105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802323164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802326224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802329291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802332358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802335495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802338588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802341643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802344703 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802347776 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802350836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802353900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802356956 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802360026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802363090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802366177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802369233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802372322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802375383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802378445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802381512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802384575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802387640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802390695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802393751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802396812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802399874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802402953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802406081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802409170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802412278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802415338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802418401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802421457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802424525 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802427584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802430652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802433717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802436773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802439833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802442900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802445967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802449032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802452134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802455192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802458248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802461306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802464365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802467430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802470495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802473561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802476623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802479712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802482771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802485840 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802488906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802491965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802495083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802498146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802501206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802504281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802507352 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802510424 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802513491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802516559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802519626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802522705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802525784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802528864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802531927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802535006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802538079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802541150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802544214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802547281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802550338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802553418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802556494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802559561 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802562629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802565691 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802568761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802571850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802574929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802577988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802581048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802584107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802587174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802590233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802593295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802596355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802599423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802602485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802605551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802608618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802611679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802614749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802617808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802620865 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802623931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802626993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802630065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802633124 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802636186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802639245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802642306 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802645379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802648449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802651518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802654596 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802657658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802660730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802663788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802666873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802669936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802673003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802676056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802679116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802682173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802685303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802688371 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802691457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802694521 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802697599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802700679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802703733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802706792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802709851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802712902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802715958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802719012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802722086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802725150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802728207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802731261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802734320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802737370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802740423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802743508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802746567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802749625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802752685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802755743 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802758811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802761878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802764940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802767995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802771056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802774129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802777182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802780234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802783295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802786362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802789423 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802792484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802795543 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802798643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802801713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802804788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802807876 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802810938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802813993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802817053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802820116 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802823177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802826232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802829300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802832370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802835437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802838496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802841567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802844627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802847685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802850745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802853807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802856879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802859936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802862996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802866060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802869121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802872189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802875246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802878300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802881358 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802884444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802887502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802890562 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802893626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802896686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802899749 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802902814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802905884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802908958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802912023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802915088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802918143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802921200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802924262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802927356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802930418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802933483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802936541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802939595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802942659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802945724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802948779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802951839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802954905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802957968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802961023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802964102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802967156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802970209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802973266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802976329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802979388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802982538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802985601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802988660 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802991713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802994775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724802997836 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803000911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803003978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803007040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803010097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803013164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803016226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803019285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803022367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803025427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803028488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.22): 1724803031557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+even-unavailable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+network-jewel.gl.at.ply.gg:2028 => 127.0.0.1:19132 (minecraft-bedrock)

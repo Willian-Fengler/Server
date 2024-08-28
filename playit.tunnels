@@ -54,28 +54,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "modern-ta.gl.at.ply.gg",
+          "assigned_domain": "network-jewel.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "7965c12e-fe0e-4e1e-9594-f5b048aef069",
+          "id": "ddb9b941-dc94-4245-a023-a441a6653fce",
           "ip_hostname": "22.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 1973,
-          "port_start": 1972,
+          "port_end": 2029,
+          "port_start": 2028,
           "region": "global",
           "static_ip4": "147.185.221.22",
           "tunnel_ip": "2602:fbaf:0:1::16"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-27T02:33:07.189867Z",
+      "created_at": "2024-08-27T21:13:06.155156Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "389582d4-6c99-4a33-a45f-258e09b9f9da",
+      "id": "cd89e9f4-9e09-4492-aa02-b6c398de2004",
       "name": "Minecraft Bedrock",
       "origin": {
         "data": {
