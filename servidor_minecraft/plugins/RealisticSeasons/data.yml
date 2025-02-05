@@ -1,0 +1,33 @@
+players:
+  colorsdisabled: []
+  tempdisabled: []
+  particlesdisabled: []
+  knownplayers:
+  - c227b202-2659-318b-b1ec-e23a1c938f2a
+  - 15b05ba8-e178-3061-839d-433ee352b5ec
+  - fabc4a42-0993-3384-b5b5-0703afa15975
+  fahrenheit-mode: []
+worlds:
+  world: SPRING
+dates:
+  world:
+    day: 11
+    month: 3
+    year: 2
+temperature:
+  world: true
+time-paused: []
+placedblocks:
+  world:
+  - -266,114,-351,world
+  - -253,119,-378,world
+  - -99,64,-80,world
+  - -267,113,-349,world
+  - -99,64,-82,world
+  - -99,64,-81,world
+  - -267,113,-350,world
+  - -171,81,362,world
+  - -230,120,-344,world
+placedeggs:
+  world:
+  - 10,97,-27,world

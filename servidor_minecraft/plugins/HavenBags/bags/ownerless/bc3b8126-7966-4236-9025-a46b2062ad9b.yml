@@ -1,0 +1,11 @@
+uuid: bc3b8126-7966-4236-9025-a46b2062ad9b
+owner: ownerless
+creator: c227b202-2659-318b-b1ec-e23a1c938f2a
+size: 54
+texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGNiM2FjZGMxMWNhNzQ3YmY3MTBlNTlmNGM4ZTliM2Q5NDlmZGQzNjRjNjg2OTgzMWNhODc4ZjA3NjNkMTc4NyJ9fX0=
+custommodeldata: 0
+trusted: []
+auto-pickup: 'null'
+weight-max: 0
+content: '[{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"OAK_LOG","amount":14},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"OAK_PLANKS","amount":48},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"COBBLESTONE","amount":64},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"WHEAT","amount":18},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"CHARCOAL","amount":18},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"STONE_HOE","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","Damage":87}},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"SHEARS","meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","Damage":53}},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"IRON_INGOT","amount":23},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"TORCH","amount":4},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"COBBLESTONE","amount":48},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"FURNACE"},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"SPRUCE_LOG","amount":64},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"WHITE_BED"},{"==":"org.bukkit.inventory.ItemStack","v":4189,"type":"CRAFTING_TABLE"},null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]'
+weight: 6800.0

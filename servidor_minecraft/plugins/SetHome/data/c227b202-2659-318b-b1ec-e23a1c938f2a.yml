@@ -1,0 +1,33 @@
+homes:
+- spawn
+- Casa_Aldea
+- lobos_vacas
+- granja hierro
+spawn:
+  world: world
+  x: -15.742916495584977
+  y: 79.0
+  z: -5.7914621031107005
+  yaw: -57.75006
+  pitch: 12.632114
+Casa_Aldea:
+  world: world
+  x: -268.6358988899271
+  y: 123.0
+  z: -344.21834573229097
+  yaw: -179.55933
+  pitch: 10.810631
+lobos_vacas:
+  world: world
+  x: 132.01371960576694
+  y: 64.0
+  z: 635.2382591282012
+  yaw: -101.44701
+  pitch: 11.996367
+granja hierro:
+  world: world
+  x: -215.8017776896281
+  y: 127.0
+  z: -355.75921319023166
+  yaw: -110.70933
+  pitch: 20.260624

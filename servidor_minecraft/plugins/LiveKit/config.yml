@@ -1,0 +1,79 @@
+server:
+  port: 49646
+  name: Server Vanilla Willian
+  password: 'NULL'
+  tickrate: 20
+proxy:
+  enabled: true
+  hostname: 'NULL'
+storage:
+  type: SQLITE
+  sql:
+    host: 'NULL'
+    database: 'NULL'
+    user: 'NULL'
+    password: 'NULL'
+anonymous:
+  allow: true
+  permissions:
+  - livekit.module.chat
+  - livekit.module.map
+  - livekit.module.players
+  - livekit.players.other
+permissions:
+  useVault: false
+  default:
+  - livekit.commands.basic
+  - livekit.module.map
+  - livekit.module.players
+  - livekit.module.weathertime
+  - livekit.module.chat
+  - livekit.module.poi
+  - livekit.module.messaging
+  - livekit.chat.write
+  - livekit.poi.personalpins
+  - livekit.players.other
+  - livekit.essentials.homes
+  - livekit.essentials.info
+  - livekit.essentials.warps
+  - livekit.essentials.spawn
+modules:
+  LiveMapModule:
+    enabled: true
+    worlds:
+    - world
+    - world_nether
+    - world_the_end
+  PlayerModule:
+    enabled: true
+  WeatherTimeModule:
+    enabled: true
+  AdminModule:
+    enabled: true
+  ChatModule:
+    enabled: true
+    offlineFormat: '&7[Offline]&r <{prefix}&r{name}&r{suffix}&r> {message}'
+  POIModule:
+    enabled: true
+    personalpins: 5
+    teleport_spawn: false
+    teleport_bed: false
+    show_default_world_spawns: true
+  ConsoleModule:
+    enabled: true
+    password: eKqJ4iKQuY
+  InventoryModule:
+    enabled: true
+  TPSModule:
+    enabled: true
+plugins:
+  DiscordSRV:
+    enabled: false
+    channelIDs:
+    - all
+  essentialsX:
+    enabled: true
+    enable_home_teleport: true
+    enable_warp_teleport: true
+    enable_spawn_teleport: true
+

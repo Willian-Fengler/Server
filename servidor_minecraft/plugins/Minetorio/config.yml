@@ -1,0 +1,354 @@
+######## STANDARD USERS ##########
+
+#This populates crafting recipes for all MT items.
+#You could disable this and delete the Recipe Data folder in the minetorio plugin folder
+#Doing so would have no recipes set by default for MT giving complete control over them
+#You could also just set any recipe you dont want to be craftable to crafted at "Nowhere" in the editor.
+Populate Default Recipes: true
+
+#Any default recipes will update if possible.
+Allow Recipe Updates: true
+
+#This will restrict placement of any MT devices if they do not have the required permission.
+#By default this is off so players can place anything.
+#An example permission for a specific device would be as follows. MT.SolarPanel, MT.CombustionGenerator etc
+#There is a special perm called MT.PlaceAll, this lets a user place all of the devices.
+Use Place Permissions: false
+
+#This lets you set a message to display when a user cannot place it. %PERM% & %DEVICE% can be used and will be replaced
+#with the appropriate information based on the placement. These are optional
+Place Deny Message: "You need %PERM% to place a %DEVICE%!"
+
+#Users can use the autocrafter to craft anything, however any item / device placed in this list cannot be auto crafted
+#by the autocrafter unless the user who placed it has the required permssion to do so. 
+#So if you want users to require a permission for solar panels to be crafted in the auto craftere add SolarPanel to this list.
+#Then give the user the permission to craft it by giving them this permission. 
+#MT.AutoCrafter.SolarPanel
+#It also works for vanilla items, so MT.AutoCrafter.DiamondSword, and custom items MT.AutoCrafter.AutomationSciencePack
+#Below the netherite sword is blocked by default, users will need the permission MT.AutoCrafter.NETHERITE_SWORD
+#The solar panel example doesnt actually make it require a permission, but removing EXAMPLE123_ would make the solar panel require that permission.
+Device Autocrafting Permissions:
+- NETHERITE_SWORD
+- EXAMPLE123_SolarPanel
+
+#Setting this to true will make the autocrafter no longer be able to craft custom recipes.
+Autocrafter Disable Custom Items: false
+
+#Users have all permissions for recipes in the assembler by default.
+#Anything added to the list will make it so users need to have the attached permission to craft that item.
+#The sytnax is Basic Assembler/Advanced Assembler:Item Name:Permission Needed
+#Item Name is either a custom item name or a material name like DIRT, DIAMOND_SWORD, etc.
+#This wont do anything because it contains the word EXAMPLE_ in it. Removing the EXAMPLE_ would make the basic assembler require the user to have the permission MyPerm.Perm to select it in the recipe selector.
+Assembler Autocrafting Permissions:
+- EXAMPLE_Basic Assembler:Copper Cable:MyPerm.Perm
+
+#This allows you to mask the permission with a better looking name so it doesnt show the exact permission preventing it from being selectable in an assembler.
+#So MyPerm.Perm in would show up as Industrialist Rank 2, this is optional though.
+#This also works with the autocrafter! If a permission is blocking it from working it will also use the masking here!
+Permission Masking:
+- MyPerm.Perm:Industrialist Rank 2
+
+#You can change this so that it doesnt say permission, you can for example set it to Skill Locked, in the basic assembler if its locked, it will say 'Skill Locked (Permission/MaskName)' 
+Permission Mask: Permission Locked
+
+#This controls if concrete or smooth stone gives a speed buff when being walked on.
+Allow Speed Changes: true
+
+#You can disable this if you plan to stay on an older version purposely.
+Disable Version Checking: false
+
+#Some builds may have version enforcment, so if your using 1.20.6 for example but the plugin is currently 1.21.3 you could enable this to bypass the plugin turning itself off. However you should expext the plugin to not work in many areas, you will need to work around these issues yourself somehow.
+Bypass Version Enforcement: false
+
+#Clouds do not effect solar panels above this, you can make this like 256 if you want clouds to always effect the solar panels.
+Solar Panel Cloud Level: 196
+
+#Useful for diagnosing issues.
+Debug Mode: false
+
+#Disabled Worlds will disable /mt and players will not be able to place or break devices in disabled worlds. This will also disable biters in these worlds to.
+Disabled Worlds:
+- world8
+
+#These are materials that will give a bonus speed to the user when they are walking on it. You can actually give negative values here to as well to slow the user down.
+#CONCRETE is a material group so all concrete will be given the speed modify.
+#You can do hard checks for speed using the exact material name, so if you want SMOOTH_STONE to give one speed but SMOOTH_STONE_SLAB to give another you can.
+#You can also use * to make any material containing that name give the speed change. So SMOOTH_STONE* will make SMOOTH_STONE && SMOOTH_STONE_SLAB give the speed buff.
+Speed Materials:
+- CONCRETE:0.02
+#- SMOOTH_STONE:0.01
+#- SMOOTH_STONE_SLAB:0.01
+- SMOOTH_STONE*:0.01
+
+######## PREMIUM USERS ##########
+
+#This allows devices to use power, disable it to make them no longer use power.
+Use Power System: true
+
+#This determines the damage pickaxes take in quarry's / autominers. 1.0 means itll do 1 damage per block break, 0.5 means there is a 50% chance to lose 1 durability.
+Pickaxe Damage Amount: 1.0
+
+#When using mining mode 0 you can make autominers not benefit from being placed at a lower y level. They have to virtually dig down to get access to better resources which will take time.
+Virtual Mining Warmup: false
+
+#When using mining mode 0 auto miners must be placed a certain amount of distance away from each other. As physical miners would never really be placed on top of one another this helps make mode 0 more similar to mode 1. This distance is 2D, so the y is ignored.
+Virtual Mining Spacing: 16
+
+#Make valuable resource drop more ore less, 0.5 would be double drops and 2.0 would be half the drops. 1.0 is no change and is closest to vanilla. Think of it as 1 in 1000, so 0.5 would make in 1 in 500 which makes it more common.
+Virtual Mining Drop Scaling: 1.0
+
+#This controls cloud coverage, this drastically changes output of solar panels by adding clouds. Disabling this makes solar power fairly unbalanced.
+Use Cloud Coverage: true
+
+#This controls weather or not Technology is needed to place or break devices. Disabling this makes all Technology placeable by default.
+Use Technology Progression: true
+
+#Make tech cost more ore less, 0.5 would be half the cost.
+Technology Price Scale: 1.0
+
+#This is tech that is normally locked but can be bypassed here.
+Default Technology:
+- Example Technology
+
+#This prevents these resource chunks from spawning.
+Disabled Resource Chunks:
+- EXAMPLE_RAW_GOLD
+
+#Changing this to 2.0 will make all the resource chunks provid double the resources.
+Resource Chunk Multiplier: 1.0
+
+#Allow Resource Chunk / Zone Creation from seismic charges. You can disable this and use the admin command to make your own if you want to.
+Resource Zone Creation: true
+
+#If an RZ runs out of resources it will be removed when emptied if set to true.
+Resource Zone Empty Deletion: false
+
+#This is the distance at which you can scan for more resource zones from existing zones 
+Resource Zone Spacing: 128
+
+#If enabled resource zones will slowly regenerate their resource every hour.
+Resource Zone Regeneration: false
+
+
+#The percentage of resources to regenerate in a zone per hour, keep in mind the max a resource zone is set when its first created, either from seismic charges or the command to create them manually.
+#0.01 means 1% is generated per hour. So if an oil field has 100k oil that means 1k is regnerated per hour. So it will take about 5 days for the oil field to regenerate.
+#0.001 would make a resource zone of 10k iron regenerate 10 iron per hour. 0.001 = 1 tenth of a percent, keep in mind if this is enabled the minamum amount that will regenerate will always be 1. This can happen with custom resource zones or if the resource zone scale is like 0.1.
+Resource Zone Regeneration Amount: 0.001
+
+####### PERFORMENCE SECTION #########
+
+#If this is set to true, devices will not work if their chunk is not loaded.
+Require Loaded Chunks: false
+
+#If this is set to true, movers will use caching, this is experimental and could cause issues, but it can improve mover perfomance by insane margins.
+Use Mover Caching: false
+
+#This is how far from the miner that it can dig down. Its relative to the miner, so at 128
+#When a miner is placed at 128, it will mined down to 0 at most. But placed at 128 itll mine down to 0.
+Max Auto Miner Depth: 128
+
+#Each miner mode changes how the auto miner works.
+#Mode 0, in this mode resources are generated over time without breaking blocks. However it takes time
+#before valuable resources like iron can be mined as the drill still has to *simulate* drilling down first.
+#Mode 1, in this mode the miner will create a quary and actually break blocks.
+#If your looking for performence in mind, then 0 is the best setting.
+#Mode 2, in this mode the miner starts in mode 1, but switches to mode 0 after its hits bedrock.
+Miner Mode: 1
+
+#This is the amount of animals that need to be present for auto butchering to work.
+Auto Butcher Amount: 8
+
+#The following settings are used to control many things, some devices have items above them for example and they are only visible at a certain range.
+#For example for items above devices to appear they use the far distance. So players need to be within 64 blocks.
+#Generally speaking you can also view these distances as most performance heavy to least. So the lower the default distance then the more perfomance it likely uses vs something at distant.
+#However lowering any of these will boost perfomance but going to low can have strange effects. Like setting close distance to 1 means UI for devices wont update unless the player is standing right next to the device location.
+#So if they opened the device UI from 3 blocks away the UI wont update if Close Distance set to 1.
+#Keep in mind all of these distances are Manhatten distances, so a distance between A and B is adding the difference of the x, y and z. So you might be standing 16 blocks away from a point, but if your not considering your Y level, you could actually be further.
+#These distances should still go from lowest to highest so Close Distance  < Near Distance < Far Distance < Distant Distance, otherwise things will not work as intended.
+
+#Usuaully reserved for more performance hungry things, but also used by some sounds that can be obnoxious when played from a lot of devices in one area.
+#Used by elevators to calculate their up and down elevators.
+#Lowest Recommended - 5
+Close Distance: 8
+
+#Most sounds will use this distance.
+#Lowest Recommended - 8
+Near Distance: 16
+
+#Most auto devices use this distance to spawn particles lines to their target. Used for rendering power icons when holding wire tool.
+#Lowest Recommended - 16
+Far Distance: 32
+
+#Lowest Recommended - 16
+#This effects turret particle distance, devices switches to physical mode / virtual mode, generally physical mode uses more performance.
+Distant Distance: 64
+
+#This controls the distance at which items are visible on a conveyor belt. For servers will losts of belts and large factories lowering this can help a bit.
+Belt Item Distance: 64
+
+#This controls weather or not users can teleport using trains or not.
+Allow Train Catching: true
+
+#Disabling this makes it so devices only save their inventory when the server shuts down.
+#Disabling this does reduce the impact on the server on larger servers with thousands of devices.
+#Due note that all devices do not save all at once, instead it happens over a time period.
+#This time period changes as you get more and more devices. 
+#But generally instead of saving all devices at once it evenly happens over time.
+#A save starts every 10 minutes, to save 1000 devices it will take 10 seconds. This means in order to start increasing the time it takes to save all devices you would need 60k devices.
+#Device saving happens Asynchronously as well so it doesnt happen on the main server thread.
+Use Periodic Device Saving: true
+
+
+#The hard limit will always be 10 for OP's, however this limit is for normal players.
+Max Chunk Loader Radius: 1
+
+#You can use this so players devices will not work if they are offline. This happens once every 10 minutes. This does not apply to OP players.
+Disable Devices When Offline: false
+
+#This is useful for servers wanting deep drills to only work while a player is online or near their factory, to prevent them from overnighting a ton of resources.
+#This technically only enables the device if a player is near, not really if the chunk is loaded or not, so chunk loaders will not bypass this.
+Disable Deep Drills When Unloaded: false
+
+######## BITERS & POLLUTION ##########
+
+#Setting this to false disables pollution creation.
+Use Pollution: true
+
+#Setting this to false disables biter nests from spawning and generating
+#After enabling this make sure to do some testing using a pollution generator and change attack gather time down so you can see if your server can handle biter attacks.
+#Most servers should be able to handle it but weaker servers may struggle so you will need to change some performance settings / biter settings like lowering the attack size.
+Use Biters: false
+
+#Setting this to false will make it so biters never actually send attacks.
+Use Biter Attacks: true
+
+#Used in a few ways.
+#Adding 'disable/world_name', will disable biters from generating in a specific world. - Example disable/world
+#Adding 'nobiters/world_name,x,y,z/radius' will disable biters from generating and expanding into that area.
+#This is used to create an empty area in biter generation. Any area here will never allow biters to 
+World Biter Specifics:
+#- disable/world
+- nobiters/world,0,0,0/10
+
+#Superchunks (3x3) chunks dissapate pollution overtime, increasing this value makes them delete pollution faster, resulting in a smaller pollution cloud. The inverse happens when lowered.
+Dissapation Multiplier: 1.0
+
+#Superchunks move a percentage of there pollution to their cardinal neibors. Raising this makes it so more pollution is moved off the super chunk.
+#Raising this can increase the pollution cloud size, it can also make nests spawn more powerful biters faster since they have more pollution to obsorb. The inverse happens when lowered.
+#Highest Recommended - 0.49
+Pollution Move Percent: 0.12
+
+#This increases device pollution output, raising this can increase the pollution cloud size, it can also make nests spawn more powerful biters faster since they have more pollution to obsorb. The inverse happens when lowered.
+Pollution Multiplier: 1.0
+
+#Crops have a percent chance to stop a growth tick when in a polluted super chunk.
+#The chance is SuperChunk.Pollution/100, so a superchunk with 1000 pollution has a 10% chance to stop a growth tick
+Plant Growth Stunting: true
+
+#Animals have a percent chance to prevent a breeding spawn when in a polluted super chunk.
+#The chance is SuperChunk.Pollution/100, so a superchunk with 1000 pollution has a 10% chance to stop a breed spawn
+Animal Spawn Canceling: true
+
+#Once a superchunk has had 10000 lifetime-pollution added to it, the evolution percent goes up by 1%.
+#This is the total amount of pollution the chunk has had added to it over its lifetime.
+#So at 100000 lifetime pollution the evolution percentage is 10%.
+#This also controls when nests can start spawning stronger biters.
+#0% Evolution +Small Biters
+#10% Evolution +Medium Biters
+#15% Evolution +Small Spitters
+#20% Evolution +Medium Spitters
+#30% Evolution +Big Biters
+#40% Evolution +Big Spitters
+#60% Evolution +Behemoth Biters
+#70% Evolution +Behemoth Spitters
+Evolution Amount Percentage: 10000
+
+#This is how long it takes in seconds for a SuperChunk to attempt to spawn a biter nest. By default this is every 15 minutes.
+#Setting to -1 disables nest spawning in pollution clouds. Existing nests can still expand and create new nests though.
+Nest Spawn Timer: 900
+
+#This decides the chance to spawn a nest in a SuperChunk, the forumla works as so, SuperChunk.Pollution/Nest Spawn Chance Factor
+#A Superchunk with 500 pollution has a 10% chance to spawn a nest. 
+#Increase this to reduce spawn chance, reduce this to increase spawn chance.
+#This is also the lowest pollution a chunk can have to have a chance to spawn a nest.
+#You can ignore this if Nest Spawn Timer is -1.
+Nest Spawn Chance Factor: 50
+
+#This is the price of expansion pollution stored by a nest to create a new nest nearby.
+#Raising this will make it take longer to create an expansion nest. Inverse if lowered.
+#With all default settings an average expansion will take 40 minutes in low pollution conditions at 5000.
+#Keep in mind nests cannot expand if they are not getting any pollution.
+#Set to -1 to disable nest expansions.
+Nest Expansion Price: 5000
+
+#The price in pollution to spawn more advanced biters. Raising this makes the biters weakers, lowering it makes them stronger.
+#Raising this can slow down biter spawn rate if default pollution settings.
+#Reducing this does not really increase spawn rate if pollution settings are default, however what is spawned is stronger.
+Biter Price Multiplier: 1.0
+
+#How many biters can spawn to protect a nest.
+Nest Defender Biters: 10
+
+#This is how many physical attacks can be active at once, attacks have stages, from gathering, finding a target, moving and then physical attacking.
+#This means that there could be 100 attacks gathering, moving & finding targets but only 10 attacks will ever physically be happening at a time.
+#Reducing this can help performance as less chunks are being loaded for the attacks.
+Max Concurrent Attacks: 10
+
+#How many biters can attack in a wave.
+Attack Biters: 20
+
+#How long in seconds an attack will gather biters for. The higher this number the less frequent biter attacks. But generally if all else is default the attacks will be larger or at max size more often then not.
+Attack Gather Time: 600
+
+#Factories can be attacked when a player isnt online. You can disable this if you dont want attacks to target offline player factories.
+Attack Only Online: true
+
+#This will generate nests in superchunks when the superchunk is fully loaded.
+#This works on superchunks that already exist!
+#This will essentially spawn nests all over the world populating it with biters as the map is explored.
+#By default this is turned off as not all servers will wont their entire world crawling with biters.
+#This cannot be undone easily, you would need to run /mt killnests, to remove all of the spawned nests.
+#But the nests wont be fully removed until a server restart.
+#So only set this if you intend for your world to be populated with biters.
+#If you turn this on, and then off and then back on you will need to delete your super chunks folder as generation only happens one time per super chunk EVER.
+Generate Nests In SuperChunks: false
+
+#The chance that a super chunk generates any nests. Anything higher then 1.0 just means 100%
+Nest Generate Chance: 0.25
+
+#The max amount of nests that a super chunk may generate.
+Nest Max Cluster Size: 3
+
+#After each nest is generated the chance of another is multiplied by the amount below.
+#So 100% * 0.5 = 50%, 50*0.5 = 25% 25*0.5 = 13
+#So after each nest generates the chance gets lower to spawn another nest.
+#The amount of nests generated will never exceed Nest Max Cluster Size.
+Nest Cluster Diminish Chance: 0.5
+
+#When biters attack an area and kill all devices in the area, they will form a nest in that location, you can disable this if you dont want this.
+Biter Victory Nests: true
+
+######## BITER WAVE DEFENSE ##########
+
+#Wave defense works seperate from the other biter systems. This system will spawn waves of biters on an interval to attack player placed factories.
+#This allows for a really simple form of biters without having to use nests at all. As some servers will not like biter nests.
+#Waves strengths are determined by the super chunks evolution that they spawn in. So attacks should be similar in strength to the normal biter systems.
+#The higher the evolution in a super chunk the stronger and larger the attacks will become.
+Use Wave Defense: false
+
+#The interval at which waves will spawn and attack players.
+Wave Interval: 1800
+
+#This will make the next wave come either sooner or later by this many seconds, it is randomly chosen between -300 and 300 seconds by default. Meaning some attacks will come
+#up to 5 minutes sooner or later. You can set this to zero to have a consistent wave timer.
+Interval Variance: 300
+
+#The following settings are also used from the BITERS & POLLUTION section here.
+#Max Concurrent Attacks , above is also used to control the max amount of waves that can be attacking player bases at once.
+#Attack Biters, is also used to determine the max amount of biters that can be sent in a wave.
+#Attack Only Online, is used to make sure waves are only sent to online players
+
+######## PLUGIN SUPPORT ##########
+
+#This prevents towny from removing biters. You can disble this to let towny kill biters for you
+Towny Prevent Biter Removal: true

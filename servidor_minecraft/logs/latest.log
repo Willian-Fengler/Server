@@ -1,0 +1,475 @@
+[22:05:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[22:05:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-138-main@5395ae3 (2025-02-02T21:42:11Z) for Minecraft 1.21.4
+[22:05:26] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:05:26] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/MTP-0.84.jar'...
+[22:05:28] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/MTP-0.84.jar' in 1326ms.
+[22:05:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 20 plugins
+[22:05:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (20):
+ - AdvancedEnchantments (9.14.5), Chunky (1.4.28), ClickTpa (1.7.6), ConditionalEvents (4.60.1), Essentials (2.21.0-dev+164-1a4d75c), GravesX (4.9.7.3), HavenBags (1.30.1.1729), Images (2.5.3), LiveKit (1.4.8), LuckPerms (5.4.131), Minetorio (0.84), PlaceholderAPI (2.11.6), ProtectionStones (2.10.5), ProtocolLib (5.3.0), RealisticSeasons (11.6.6), SetHome (1.9.3), SmoothTimber (1.27.3), ValorlessUtils (1.11.1.250), WorldEdit (7.3.10+7004-768a436), WorldGuard (7.0.13-beta-2+5c4848b)
+[22:05:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:05:37] [ServerMain/INFO]: Loaded 1370 recipes
+[22:05:37] [ServerMain/INFO]: Loaded 1481 advancements
+[22:05:37] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[22:05:38] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 302.6ms
+[22:05:38] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:05:38] [Server thread/INFO]: Loading properties
+[22:05:38] [Server thread/INFO]: This server is running Paper version 1.21.4-138-main@5395ae3 (2025-02-02T21:42:11Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[22:05:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:05:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:05:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:05:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:05:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:05:40] [Server thread/INFO]: Default game type: SURVIVAL
+[22:05:40] [Server thread/INFO]: Generating keypair
+[22:05:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:05:40] [Server thread/INFO]: Using epoll channel type
+[22:05:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:05:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:05:41] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[22:05:51] [Server thread/WARN]: Legacy plugin ClickTpa v1.7.6 does not specify an api-version.
+[22:05:52] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.10+7004-768a436
+[22:05:53] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@69974b64]
+[22:05:53] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[22:05:53] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.13-beta-2+5c4848b
+[22:05:53] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[22:05:53] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0
+[22:05:53] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.4) has not yet been tested! Proceed with caution.
+[22:05:54] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+164-1a4d75c
+[22:05:54] [Server thread/INFO]: [ValorlessUtils] Loading server plugin ValorlessUtils v1.11.1.250
+[22:05:54] [Server thread/INFO]: [ValorlessUtils] 1.21.4-138-5395ae3 (MC: 1.21.4)
+[22:05:54] [Server thread/INFO]: [ValorlessUtils] 1.21.4-R0.1-SNAPSHOT
+[22:05:54] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.5
+[22:05:54] [Server thread/INFO]: [ClickTpa] Loading server plugin ClickTpa v1.7.6
+[22:05:54] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.60.1
+[22:05:54] [Server thread/INFO]: [GravesX] Loading server plugin GravesX v4.9.7.3
+[22:05:54] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v1.9.3
+[22:05:54] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.28
+[22:05:54] [Server thread/INFO]: [RealisticSeasons] Loading server plugin RealisticSeasons v11.6.6
+[22:05:54] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.3
+[22:05:54] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.3
+[22:05:54] [Server thread/INFO]: [Minetorio] Loading server plugin Minetorio v0.84
+[22:05:54] [Server thread/INFO]: [LiveKit] Loading server plugin LiveKit v1.4.8
+[22:05:54] [Server thread/INFO]: [HavenBags] Loading server plugin HavenBags v1.30.1.1729
+[22:05:54] [Server thread/INFO]: [AdvancedEnchantments] Loading server plugin AdvancedEnchantments v9.14.5
+[22:05:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:05:54] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.10+7004-768a436
+[22:05:54] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[22:05:54] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[22:05:55] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21_4.PaperweightAdapter as the Bukkit adapter
+[22:05:56] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[22:05:57] [Server thread/INFO]:         __    
+[22:05:57] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[22:05:57] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:05:57] [Server thread/INFO]: 
+[22:05:57] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:05:58] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:05:59] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:05:59] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:06:00] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3374ms)
+[22:06:00] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0
+[22:06:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:06:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:06:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:06:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:06:00] [Server thread/INFO]: Preparing level "world"
+[22:06:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:04] [Server thread/INFO]: Preparing spawn area: 2%
+[22:06:05] [Server thread/INFO]: Preparing spawn area: 6%
+[22:06:05] [Server thread/INFO]: Preparing spawn area: 6%
+[22:06:05] [Server thread/INFO]: Time elapsed: 2183 ms
+[22:06:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:06:05] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:06] [Server thread/INFO]: Time elapsed: 457 ms
+[22:06:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:06:06] [Server thread/INFO]: Preparing spawn area: 0%
+[22:06:06] [Server thread/INFO]: Time elapsed: 212 ms
+[22:06:06] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.13-beta-2+5c4848b
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[22:06:07] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[22:06:07] [Server thread/INFO]: [WorldGuard] Loading region data...
+[22:06:07] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:06:08] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:06:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+164-1a4d75c
+[22:06:08] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[22:06:08] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[22:06:08] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[22:06:09] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[22:06:09] [Server thread/INFO]: [Essentials] Using locale en
+[22:06:09] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[22:06:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[22:06:10] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[22:06:10] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[22:06:10] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[22:06:10] [Server thread/INFO]: [ValorlessUtils] Enabling ValorlessUtils v1.11.1.250
+[22:06:10] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.5
+[22:06:10] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[22:06:10] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[22:06:10] [Server thread/WARN]: [ProtectionStones] Vault not enabled! There will be no economy support!
+[22:06:10] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI support enabled!
+[22:06:10] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: protectionstones [2.10.5]
+[22:06:10] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[22:06:10] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[22:06:10] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[22:06:10] [Server thread/WARN]: [ProtectionStones] Vault is not enabled! Economy functions (renting & buying) will not work!
+[22:06:10] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[22:06:10] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[22:06:10] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[22:06:10] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[22:06:10] [Server thread/INFO]: [ClickTpa] Enabling ClickTpa v1.7.6*
+[22:06:10] [Server thread/INFO]: [ClickTpa] ClickTpa v1.7.6 has been loaded successfully!
+[22:06:10] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[22:06:10] [Server thread/INFO]: [ClickTpa] To any ClickTpa users who have a version before 1.7.6:
+[22:06:10] [Server thread/INFO]: [ClickTpa] There has been an update to the config; some messages have been removed.
+[22:06:10] [Server thread/INFO]: [ClickTpa] Therefore, if your config.yml is not updated, you will get errors.
+[22:06:10] [Server thread/INFO]: [ClickTpa] ---------------------------------------
+[22:06:10] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.60.1
+[22:06:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.60.1]
+[22:06:11] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.60.1
+[22:06:11] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[22:06:11] [Server thread/INFO]: [GravesX] Enabling GravesX v4.9.7.3
+[22:06:11] [Server thread/INFO]: [GravesX] Loading Libraries for GravesX
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library com.zaxxer.HikariCP version 6.0.0.
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library com.zaxxer:HikariCP:6.0.0
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library org.javassist:javassist:3.29.2-GA
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library io.micrometer:micrometer-core:1.5.10
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library org.hdrhistogram:HdrHistogram:2.1.12
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library org.latencyutils:LatencyUtils:2.0.3
+[22:06:11] [Server thread/INFO]: [GravesX] Loaded library com.zaxxer.HikariCP version 6.0.0 and shaded successfully.
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library org.xerial.sqlite-jdbc version 3.47.0.0.
+[22:06:11] [Server thread/INFO]: [GravesX] Loading library org.xerial:sqlite-jdbc:3.47.0.0
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:1.7.36
+[22:06:12] [Server thread/INFO]: [GravesX] Loaded library org.xerial.sqlite-jdbc version 3.47.0.0 successfully.
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library com.github.oshi.oshi-core version 6.6.5.
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library com.github.oshi:oshi-core:6.6.5
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna:5.15.0
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library net.java.dev.jna:jna-platform:5.15.0
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library org.slf4j:slf4j-api:2.0.16
+[22:06:12] [Server thread/INFO]: [GravesX] Loaded library com.github.oshi.oshi-core version 6.6.5 successfully.
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library com.h2database.h2 version 2.3.232.
+[22:06:12] [Server thread/INFO]: [GravesX] Loading library com.h2database:h2:2.3.232
+[22:06:13] [Server thread/INFO]: [GravesX] Loaded library com.h2database.h2 version 2.3.232 and shaded successfully.
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-api version 4.17.0.
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-api version 4.17.0 and shaded successfully.
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-minimessage version 4.17.0.
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-minimessage:4.17.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[22:06:13] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-minimessage version 4.17.0 and shaded successfully.
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-text-serializer-gson version 4.17.0.
+[22:06:13] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.17.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-json:4.17.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.17.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.17.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.1.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:option:1.0.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library com.google.code.gson:gson:2.8.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library com.google.auto.service:auto-service-annotations:1.1.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-text-serializer-gson version 4.17.0 and shaded successfully.
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori.adventure-platform-bukkit version 4.3.3.
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-bukkit:4.3.3
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-api:4.3.3
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-api:4.13.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-key:4.13.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-bungeecord:4.3.3
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-legacy:4.13.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-nbt:4.13.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-api:1.3.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:examination-string:1.3.0
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:24.0.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson:4.13.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-text-serializer-gson-legacy-impl:4.13.1
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-facet:4.3.3
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library net.kyori:adventure-platform-viaversion:4.3.3
+[22:06:14] [Server thread/INFO]: [GravesX] Loaded library net.kyori.adventure-platform-bukkit version 4.3.3 and shaded successfully.
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library com.github.puregero.multilib version 1.2.4.
+[22:06:14] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library org.jetbrains:annotations:22.0.0
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-common:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-bukkit:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:multilib-multipaper:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-common:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-bukkit:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library com.github.puregero:regionized-paper:1.2.4
+[22:06:15] [Server thread/INFO]: [GravesX] Loaded library com.github.puregero.multilib version 1.2.4 and shaded successfully.
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library org.apache.commons.commons-text version 1.12.0.
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-text:1.12.0
+[22:06:15] [Server thread/INFO]: [GravesX] Loading library org.apache.commons:commons-lang3:3.14.0
+[22:06:15] [Server thread/INFO]: [GravesX] Loaded library org.apache.commons.commons-text version 1.12.0 and shaded successfully.
+[22:06:15] [Server thread/INFO]: [GravesX] Finished Loading Libraries for GravesX.
+[22:06:16] [Server thread/INFO]: [GravesX] Integration: Hooked into ProtocolLib 5.3.0.
+[22:06:16] [Server thread/INFO]: [GravesX] Integration: Hooked into WorldEdit 7.3.10+7004-768a436.
+[22:06:17] [Server thread/INFO]: [GravesX] Integration: Hooked into MiniMessage.
+[22:06:17] [Server thread/INFO]: [GravesX] Integration: Hooked into Minedown Adventure.
+[22:06:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: gravesx [4.9.7.3]
+[22:06:17] [Server thread/INFO]: [GravesX] Integration: Hooked into PlaceholderAPI 2.11.6.
+[22:06:17] [Server thread/WARN]: [GravesX] Compatibility: Essentials Detected, make sure you don't have the essentials.keepinv or essentials.keepxp permissions.
+[22:06:17] [Server thread/INFO]: [GravesX] Integration: Hooked into LuckPerms 5.4.131.
+[22:06:17] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Starting...
+[22:06:17] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.pool.HikariPool] Graves H2 - Added connection conn1: url=jdbc:h2:file:/workspaces/Server/servidor_minecraft/plugins/GravesX/data/graves.data user=SA
+[22:06:17] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Start completed.
+[22:06:17] [Server thread/WARN]: [GravesX] SQLite database file or folder does not exist in "plugins/GravesX/data". Skipping database migration.
+[22:06:18] [Server thread/INFO]: [GravesX] Metrics has been enabled. All metrics will be sent to https://bstats.org/plugin/bukkit/Graves/12849 and https://bstats.org/plugin/bukkit/GravesX/23069.
+[22:06:18] [Server thread/INFO]: [SetHome] Enabling SetHome v1.9.3
+[22:06:18] [Server thread/INFO]: [SetHome] SetHome plugin enabled with command: /h
+[22:06:18] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.28
+[22:06:18] [Server thread/INFO]: [RealisticSeasons] Enabling RealisticSeasons v11.6.6
+[22:06:18] [Server thread/INFO]: [RealisticSeasons] [STDOUT] [Spigotunlocked.com] - COSMO
+[22:06:18] [Server thread/WARN]: Nag author(s): '[]' of 'RealisticSeasons v11.6.6' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:06:18] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.3
+[22:06:18] [Server thread/INFO]: SmoothTimber || You're currently using the supported Minecraft Version 1.21.4 (Core v1_21x)
+[22:06:18] [Server thread/INFO]: SmoothTimber || Trying to enable compatibility addon 'PlaceholderApi' for plugin 'PlaceholderAPI'...
+[22:06:18] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: smoothtimber [1.27.3]
+[22:06:18] [Server thread/INFO]: SmoothTimber || Successfully enabled compatbility addon 'PlaceholderApi' for plugin 'PlaceholderAPI'...
+[22:06:18] [Server thread/INFO]: SmoothTimber || Trying to enable compatibility addon 'WorldGuard' for plugin 'WorldGuard'...
+[22:06:18] [Server thread/INFO]: SmoothTimber || Successfully enabled compatbility addon 'WorldGuard' for plugin 'WorldGuard'...
+[22:06:18] [Server thread/INFO]: [Images] Enabling Images v2.5.3
+[22:06:18] [Server thread/INFO]: [Images] ProtocolLib detected. Enabling generic packet handling...
+[22:06:18] [Server thread/INFO]: [Minetorio] Enabling Minetorio v0.84
+[22:06:18] [Server thread/INFO]: [Minetorio] [STDOUT] [Spigotunlocked.com] - COSMO
+[22:06:18] [Server thread/WARN]: Nag author(s): '[]' of 'Minetorio v0.84' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:06:18] [Server thread/INFO]:   __  __   ___   _   _   _____   _____    ___    ____    ___    ___  
+[22:06:18] [Server thread/INFO]:  |  \/  | |_ _| | \ | | | ____| |_   _|  / _ \  |  _ \  |_ _|  / _ \ 
+[22:06:18] [Server thread/INFO]:  | |\/| |  | |  |  \| | |  _|     | |   | | | | | |_) |  | |  | | | |
+[22:06:18] [Server thread/INFO]:  | |  | |  | |  | |\  | | |___    | |   | |_| | |  _ <   | |  | |_| |
+[22:06:18] [Server thread/INFO]:  |_|  |_| |___| |_| \_| |_____|   |_|    \___/  |_| \_\ |___|  \___/ 
+[22:06:18] [Server thread/INFO]:                                                                 v0.84
+[22:06:18] [Server thread/INFO]: [Minetorio] Using Version 1.21.4-138-5395ae3 (MC: 1.21.4)
+[22:06:19] [Server thread/INFO]: [Minetorio] 2 saved objects from Player Data loaded successfully & 0 were skipped!
+[22:06:19] [Server thread/INFO]: [Minetorio] 1 saved objects from Table Data loaded successfully & 0 were skipped!
+[22:06:19] [Server thread/INFO]: [Minetorio] 89 saved objects from Super Chunks loaded successfully & 0 were skipped!
+[22:06:19] [Server thread/INFO]: [Minetorio] 143 saved objects from Recipe Data loaded successfully & 0 were skipped!
+[22:06:19] [Server thread/INFO]: [Minetorio] Updating 38 default recipes.
+[22:06:23] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:06:25] [Server thread/INFO]: [LiveKit] Enabling LiveKit v1.4.8
+[22:06:25] [Server thread/INFO]: [LiveKit] Using default permissions from config.yml for connected LiveKit clients
+[22:06:25] [Server thread/INFO]: [LiveKit] Initializing storage adapter...[SQLITE]
+[22:06:26] [Server thread/INFO]: [LiveKit] 120 regions detected for world world took 266ms
+[22:06:26] [Server thread/INFO]: [LiveKit] 4 regions detected for world world_the_end took 16ms
+[22:06:26] [Server thread/INFO]: [LiveKit] 8 regions detected for world world_nether took 15ms
+[22:06:26] [Server thread/INFO]: [LiveKit] Console access password: eKqJ4iKQuY
+[22:06:26] [LiveKit server/INFO]: [LiveKit] Server listening on 49646 for incoming connections
+[22:06:26] [Server thread/INFO]: [HavenBags] Enabling HavenBags v1.30.1.1729
+[22:06:26] [Server thread/INFO]: [HavenBags] PlaceholderAPI integrated!
+[22:06:26] [Server thread/INFO]: [HavenBags] Loading bags.
+[22:06:26] [Server thread/INFO]: [HavenBags] Bags loaded.
+[22:06:26] [Server thread/INFO]: [HavenBags] Loaded bags: 3
+[22:06:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.4! Trying to find NMS support
+[22:06:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R3' loaded!
+[22:06:26] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'ValorlessUtils' to create a bStats instance!
+[22:06:26] [Server thread/INFO]: [HavenBags] Recipe 'havenbags:ownerless-1' added.
+[22:06:26] [Server thread/INFO]: [HavenBags] Checking for updates..
+[22:06:26] [Server thread/INFO]: [AdvancedEnchantments] Enabling AdvancedEnchantments v9.14.5
+[22:06:26] [Server thread/INFO]: [AdvancedEnchantments] Loading Minecraft Version MC1_21_R3
+[22:06:26] [Server thread/INFO]: [AdvancedEnchantments] Loaded 7 armor sets.
+[22:06:26] [Server thread/INFO]: [AdvancedEnchantments] Loaded 5 weapons.
+[22:06:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: advancedenchantments [1.0.0]
+[22:06:28] [Server thread/INFO]: [spark] Starting background profiler...
+[22:06:28] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:06:28] [Server thread/INFO]: Done preparing level "world" (28.264s)
+[22:06:28] [Server thread/INFO]: Running delayed init tasks
+[22:06:28] [Server thread/INFO]: [GravesX] Registering Crash Handler...
+[22:06:28] [Server thread/INFO]: [GravesX] Registered Crash Handler. Server will handle crashes in a separate thread.
+[22:06:28] [Server thread/INFO]: [RealisticSeasons] [STDOUT] [Spigotunlocked.com] - COSMO
+[22:06:28] [Craft Scheduler Thread - 8 - GravesX/INFO]: [GravesX] Loading grave maps...
+[22:06:28] [Craft Scheduler Thread - 15 - HavenBags/INFO]: [HavenBags] Up to date.
+[22:06:28] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[22:06:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Grave 7b533889-5280-4db6-b352-be98547ac286 at location World: world, x: -156, y: -42, z: 377 is invalid. If this was caused by an addon, then report it to the plugin author. Reason: owner_texture is null, owner_texture_signature is null
+[22:06:28] [Craft Scheduler Thread - 8 - GravesX/WARN]: [GravesX] Grave 8bf63556-76dd-44a3-85be-2b7e4e6751e6 at location World: world, x: -153, y: -45, z: 374 is invalid. If this was caused by an addon, then report it to the plugin author. Reason: owner_texture is null, owner_texture_signature is null
+[22:06:28] [Craft Scheduler Thread - 8 - GravesX/INFO]: [GravesX] Loaded 2 grave maps into cache.
+[22:06:29] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: rs [1.0.0]
+[22:06:29] [Server thread/INFO]: [RealisticSeasons] Total biomes registered on server: 249
+[22:06:29] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[22:06:29] [Server thread/INFO]: Done (64.197s)! For help, type "help"
+[22:06:29] [Craft Scheduler Thread - 22 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for armorstand...
+[22:06:29] [Craft Scheduler Thread - 10 - GravesX/INFO]: [GravesX] Loading Holograms into Hologram Map Cache...
+[22:06:29] [Craft Scheduler Thread - 9 - GravesX/INFO]: [GravesX] Loading Block Map cache...
+[22:06:29] [Craft Scheduler Thread - 9 - GravesX/INFO]: [GravesX] Loaded 2 Blocks into the Block Map Cache.
+[22:06:29] [Craft Scheduler Thread - 4 - GravesX/INFO]: [GravesX] Loading Entity Map Cache for itemframe...
+[22:06:29] [Craft Scheduler Thread - 4 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for itemframe.
+[22:06:29] [Craft Scheduler Thread - 22 - GravesX/INFO]: [GravesX] Loaded 0 entities into Entity Map Cache for armorstand.
+[22:06:29] [Craft Scheduler Thread - 10 - GravesX/INFO]: [GravesX] Loaded 6 Holograms into Hologram Map Cache.
+[22:06:29] [Server thread/INFO]: [AdvancedEnchantments] Successfully hooked into ProtocolLib, AdvancedEnchantments, WorldGuard, PlaceholderAPI, ProtectionStones, Essentials, LuckPerms.
+[22:06:29] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
+[22:06:29] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[22:06:30] [Craft Scheduler Thread - 5 - Images/INFO]: [Images] Loaded 2 images...
+[22:06:31] [pool-46-thread-1/INFO]: [LiveKit] Connect via 74.249.85.198:49646 [PROXIED CONNECTION]
+[22:06:31] [pool-46-thread-1/INFO]: [LiveKit] If you want to connect with a hostname instead of your IP, setup the proxy->hostname in the config.yml!
+[22:06:31] [pool-46-thread-1/WARN]: [LiveKit] NOTE: You need to setup port forwarding for LiveKit port 49646 to enable direct connections! Direct connections offer better performance and stability! Proxy connections are only a fallback if port forwarding is not possible! Only 3 proxy connections are allowed!
+[22:07:25] [User Authenticator #0/INFO]: UUID of player WillianFengler is c227b202-2659-318b-b1ec-e23a1c938f2a
+[22:07:28] [Server thread/INFO]: WillianFengler joined the game
+[22:07:28] [Server thread/INFO]: WillianFengler[/127.3.189.19:48171] logged in with entity id 40 at ([world]-267.9499978759995, 123.0, -342.3877357466329)
+[22:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[22:07:38] [Server thread/INFO]: WillianFengler issued server command: /mt items
+[22:12:37] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[22:12:42] [Async Chat Thread - #0/INFO]: [Not Secure] <WillianFengler> asdd
+[22:12:50] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:12:51] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:12:51] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:12:56] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:12:57] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:12:57] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:13:00] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> asdd
+[22:13:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[22:13:21] [Server thread/INFO]: WillianFengler has made the advancement [Take Aim]
+[22:14:07] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[22:15:36] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[22:16:36] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[22:18:34] [Server thread/INFO]: WillianFengler was blown up by Creeper
+[22:25:36] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[22:26:31] [Server thread/INFO]: [HavenBags] Saving bags.
+[22:26:31] [Server thread/INFO]: [HavenBags] Bags saved.
+[22:26:36] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[22:35:36] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[22:35:48] [Server thread/INFO]: WillianFengler lost connection: Timed out
+[22:35:48] [Server thread/INFO]: WillianFengler left the game
+[22:36:36] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[22:37:40] [User Authenticator #1/INFO]: UUID of player WillianFengler is c227b202-2659-318b-b1ec-e23a1c938f2a
+[22:37:41] [Server thread/INFO]: WillianFengler joined the game
+[22:37:41] [Server thread/INFO]: WillianFengler[/127.3.189.19:60489] logged in with entity id 6731 at ([world]-244.36680919244856, 119.5875, -371.2244208576945)
+[22:45:36] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[22:46:31] [Server thread/INFO]: [HavenBags] Saving bags.
+[22:46:31] [Server thread/INFO]: [HavenBags] Bags saved.
+[22:46:36] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[22:52:00] [Server thread/INFO]: WillianFengler was shot by Skeleton
+[22:52:04] [Server thread/INFO]: WillianFengler issued server command: /hom
+[22:52:06] [Server thread/INFO]: WillianFengler issued server command: /h
+[22:52:58] [Server thread/INFO]: WillianFengler was shot by Skeleton
+[22:53:01] [Server thread/INFO]: WillianFengler issued server command: /h
+[22:53:19] [Server thread/INFO]: WillianFengler issued server command: /h
+[22:54:09] [Server thread/INFO]: WillianFengler was slain by Spider
+[22:54:11] [Async Chat Thread - #2/INFO]: [Not Secure] <WillianFengler> granja hierro
+[22:54:12] [Server thread/INFO]: WillianFengler issued server command: /h
+[22:55:36] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[22:55:50] [Server thread/INFO]: WillianFengler was shot by Skeleton
+[22:55:52] [Server thread/INFO]: WillianFengler issued server command: /h
+[22:55:56] [Server thread/INFO]: WillianFengler issued server command: /h
+[22:56:36] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[23:05:36] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[23:06:23] [Server thread/INFO]: WillianFengler has made the advancement [Suit Up]
+[23:06:31] [Server thread/INFO]: [HavenBags] Saving bags.
+[23:06:31] [Server thread/INFO]: [HavenBags] Bags saved.
+[23:06:36] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[23:09:18] [Server thread/INFO]: WillianFengler issued server command: /stop
+[23:09:18] [Server thread/INFO]: [WillianFengler: Stopping the server]
+[23:09:18] [Server thread/INFO]: Stopping server
+[23:09:18] [Server thread/INFO]: [AdvancedEnchantments] Disabling AdvancedEnchantments v9.14.5
+[23:09:18] [Server thread/INFO]: [HavenBags] Disabling HavenBags v1.30.1.1729
+[23:09:18] [Server thread/INFO]: [HavenBags] Saving bags.
+[23:09:18] [Server thread/INFO]: [HavenBags] Bags saved.
+[23:09:18] [Server thread/INFO]: [LiveKit] Disabling LiveKit v1.4.8
+[23:09:18] [LiveKit server/INFO]: [LiveKit] Server shutdown
+[23:09:18] [Server thread/INFO]: [Minetorio] Disabling Minetorio v0.84
+[23:09:19] [Server thread/INFO]: [Images] Disabling Images v2.5.3
+[23:09:19] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.3
+[23:09:19] [Server thread/INFO]: [RealisticSeasons] Disabling RealisticSeasons v11.6.6
+[23:09:19] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.28
+[23:09:19] [Server thread/INFO]: [SetHome] Disabling SetHome v1.9.3
+[23:09:19] [Server thread/INFO]: [SetHome] Saving your home...
+[23:09:19] [Server thread/INFO]: [SetHome] Saving config.
+[23:09:19] [Server thread/INFO]: [GravesX] Disabling GravesX v4.9.7.3
+[23:09:19] [Server thread/INFO]: [GravesX] Shutting Down GravesX...
+[23:09:19] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown initiated...
+[23:09:19] [Server thread/INFO]: [com.ranull.graves.libraries.hikari.HikariDataSource] Graves H2 - Shutdown completed.
+[23:09:19] [Server thread/INFO]: [GravesX] Unloading GraveManager...
+[23:09:19] [Server thread/INFO]: [GravesX] Unloaded GraveManager Successfully.
+[23:09:19] [Server thread/INFO]: [GravesX] Unloading IntegrationManager...
+[23:09:19] [Server thread/INFO]: [GravesX] Unloaded IntegrationManager Successfully.
+[23:09:19] [Server thread/INFO]: [GravesX] Unloading RecipeManager...
+[23:09:19] [Server thread/INFO]: [GravesX] Unloaded RecipeManager Successfully.
+[23:09:19] [Server thread/INFO]: [GravesX] Shutdown Completed :)
+[23:09:19] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.60.1
+[23:09:19] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.60.1
+[23:09:19] [Server thread/INFO]: [ClickTpa] Disabling ClickTpa v1.7.6
+[23:09:19] [Server thread/INFO]: [ProtectionStones] Disabling ProtectionStones v2.10.5
+[23:09:19] [Server thread/INFO]: [ValorlessUtils] Disabling ValorlessUtils v1.11.1.250
+[23:09:19] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+164-1a4d75c
+[23:09:19] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[23:09:19] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[23:09:19] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13-beta-2+5c4848b
+[23:09:19] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[23:09:19] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[23:09:19] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[23:09:19] [Server thread/INFO]: [LuckPerms] Closing storage...
+[23:09:19] [Server thread/INFO]: [LuckPerms] Goodbye!
+[23:09:19] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.10+7004-768a436
+[23:09:19] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:09:19] [Server thread/INFO]: Saving players
+[23:09:19] [Server thread/INFO]: WillianFengler lost connection: Server closed
+[23:09:19] [Server thread/INFO]: WillianFengler left the game
+[23:09:19] [Server thread/INFO]: Saving worlds
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Saved 43 block chunks, 410 entity chunks, 0 poi chunks in world 'world' in 0.29s
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:09:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:09:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:09:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:09:19] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[23:09:19] [Server thread/INFO]: All I/O tasks to complete
+[23:09:19] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:09:19] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
