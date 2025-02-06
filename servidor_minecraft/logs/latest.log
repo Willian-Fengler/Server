@@ -411,3 +411,7 @@
 [02:51:38] [Server thread/INFO]: WillianFengler lost connection: Disconnected
 [02:51:38] [Server thread/INFO]: WillianFengler left the game
 [02:53:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[02:54:52] [Server thread/INFO]: [HavenBags] Saving bags.
+[02:54:52] [Server thread/INFO]: [HavenBags] Bags saved.
+[02:54:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[03:03:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
