@@ -405,3 +405,18 @@
 [13:07:13] [Server thread/INFO]: TomyXRlp was slain by Zombie
 [13:07:18] [Server thread/INFO]: TomyXRlp issued server command: /h
 [13:08:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[13:09:05] [Server thread/INFO]: TomyXRlp was slain by Zombie
+[13:09:10] [Server thread/INFO]: TomyXRlp issued server command: /h
+[13:09:35] [Server thread/INFO]: [HavenBags] Saving bags.
+[13:09:35] [Server thread/INFO]: [HavenBags] Bags saved.
+[13:09:40] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[13:10:02] [Server thread/INFO]: TomyXRlp issued server command: /h
+[13:10:15] [Async Chat Thread - #3/INFO]: [Not Secure] <TomyXRlp> zzzzz
+[13:10:22] [Async Chat Thread - #3/INFO]: [Not Secure] <WillianFengler> estoy nether
+[13:10:24] [Async Chat Thread - #3/INFO]: [Not Secure] <WillianFengler> dormi nomas
+[13:12:17] [Server thread/INFO]: WillianFengler issued server command: /h
+[13:12:30] [Async Chat Thread - #6/INFO]: [Not Secure] <WillianFengler> chauuu en un rato entrooo
+[13:12:34] [Server thread/INFO]: WillianFengler lost connection: Disconnected
+[13:12:34] [Server thread/INFO]: WillianFengler left the game
+[13:12:35] [Async Chat Thread - #6/INFO]: [Not Secure] <TomyXRlp> oka
+[13:18:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.

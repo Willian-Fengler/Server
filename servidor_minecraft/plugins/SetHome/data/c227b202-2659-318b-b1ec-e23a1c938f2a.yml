@@ -7,6 +7,7 @@ homes:
 - Lava
 - Mina
 - bastion
+- Mina_Nether
 spawn:
   world: world
   x: -15.742916495584977
@@ -63,3 +64,10 @@ bastion:
   z: -8.994534085558104
   yaw: 83.34817
   pitch: 12.946342
+Mina_Nether:
+  world: world_nether
+  x: -256.5550169552375
+  y: 15.0
+  z: -45.64042242092636
+  yaw: -177.84857
+  pitch: 9.308147

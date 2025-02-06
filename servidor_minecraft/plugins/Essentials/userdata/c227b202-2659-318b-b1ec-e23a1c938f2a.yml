@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738810298298
+  logout: 1738847554500
   login: 1738845026743
 money: '0'
 logoutlocation:
-  world: 3ad34e78-23bd-4e8c-910e-f1a46eb4ca89
-  world-name: world
-  x: -268.7585473611671
-  y: 123.5625
-  z: -342.38893951061834
-  yaw: 68.39999389648438
-  pitch: 23.100004196166992
+  world: c4817aa9-d557-411d-9da1-9d5545d22fa1
+  world-name: world_nether
+  x: -256.5550169552375
+  y: 15.0
+  z: -45.64042242092636
+  yaw: 179.00140380859375
+  pitch: 8.858145713806152
 last-account-name: WillianFengler
 lastlocation:
   world: c4817aa9-d557-411d-9da1-9d5545d22fa1
