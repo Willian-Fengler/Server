@@ -353,3 +353,46 @@
 [12:31:49] [Server thread/INFO]: WillianFengler issued server command: /fly
 [12:34:27] [Server thread/INFO]: Villager Villager['Librarian'/71, uuid='673d6e28-8353-4cf3-b0ac-8abdda193061', l='ServerLevel[world]', x=-282.48, y=119.05, z=-365.70, cpos=[-18, -23], tl=108962, v=true] died, message: 'Librarian drowned'
 [12:35:57] [Server thread/INFO]: WillianFengler has made the advancement [Enchanter]
+[12:38:36] [Server thread/INFO]: WillianFengler has made the advancement [We Need to Go Deeper]
+[12:38:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[12:39:40] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[12:42:44] [Server thread/INFO]: WillianFengler has made the advancement [Those Were the Days]
+[12:42:53] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:43:55] [Server thread/INFO]: WillianFengler was slain by Piglin
+[12:43:59] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:44:16] [Server thread/INFO]: WillianFengler was slain by Piglin
+[12:44:20] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:44:34] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:46:27] [Server thread/INFO]: WillianFengler was slain by Piglin
+[12:46:31] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:47:24] [Server thread/INFO]: WillianFengler was slain by Piglin
+[12:47:38] [Server thread/INFO]: WillianFengler issued server command: /fly
+[12:47:40] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:47:51] [Server thread/INFO]: WillianFengler issued server command: /fly
+[12:48:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[12:49:00] [Server thread/INFO]: WillianFengler issued server command: /fly
+[12:49:07] [Server thread/INFO]: WillianFengler has made the advancement [War Pigs]
+[12:49:35] [Server thread/INFO]: [HavenBags] Saving bags.
+[12:49:35] [Server thread/INFO]: [HavenBags] Bags saved.
+[12:49:40] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[12:50:07] [Server thread/INFO]: WillianFengler was slain by Zombified Piglin
+[12:50:24] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15s
+[12:50:26] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:50:31] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15s
+[12:50:33] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15
+[12:50:42] [Server thread/INFO]: WillianFengler was slain by Zombified Piglin
+[12:50:45] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15
+[12:50:46] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15s
+[12:50:48] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:50:52] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15s
+[12:50:55] [Server thread/INFO]: WillianFengler issued server command: /tp WillianFengler -120 70 -15
+[12:52:09] [User Authenticator #1/INFO]: UUID of player TomyXRlp is fabc4a42-0993-3384-b5b5-0703afa15975
+[12:52:10] [Server thread/INFO]: TomyXRlp joined the game
+[12:52:10] [Server thread/INFO]: TomyXRlp[/127.126.150.49:47973] logged in with entity id 7630 at ([world]-217.42099916761816, 122.0, 321.001928771625)
+[12:52:19] [Async Chat Thread - #1/INFO]: [Not Secure] <WillianFengler> wepppp
+[12:52:22] [Async Chat Thread - #1/INFO]: [Not Secure] <TomyXRlp> opa
+[12:53:57] [Server thread/INFO]: TomyXRlp issued server command: /h
+[12:56:07] [Server thread/INFO]: WillianFengler issued server command: /h
+[12:56:34] [Server thread/INFO]: TomyXRlp burned to death
+[12:56:40] [Server thread/INFO]: TomyXRlp issued server command: /h
+[12:58:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.

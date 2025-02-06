@@ -6,6 +6,7 @@ homes:
 - Granja_De_Hierro
 - Lava
 - Mina
+- bastion
 spawn:
   world: world
   x: -15.742916495584977
@@ -55,3 +56,10 @@ Mina:
   z: 680.3000000119209
   yaw: 1.9228516
   pitch: 8.849921
+bastion:
+  world: world_nether
+  x: -115.2967791171937
+  y: 41.0
+  z: -8.994534085558104
+  yaw: 83.34817
+  pitch: 12.946342
