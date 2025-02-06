@@ -389,3 +389,7 @@
 [02:17:37] [Server thread/INFO]: WillianFengler issued server command: /h
 [02:18:17] [Server thread/INFO]: WillianFengler issued server command: /h
 [02:18:23] [Server thread/INFO]: WillianFengler issued server command: /h
+[02:23:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[02:24:03] [Server thread/INFO]: WillianFengler issued server command: /h
+[02:24:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[02:33:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.

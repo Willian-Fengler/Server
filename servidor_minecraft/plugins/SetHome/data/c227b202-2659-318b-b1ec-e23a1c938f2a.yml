@@ -5,6 +5,7 @@ homes:
 - Aldeanos
 - Granja_De_Hierro
 - Lava
+- Mina
 spawn:
   world: world
   x: -15.742916495584977
@@ -47,3 +48,10 @@ Lava:
   z: 702.3000000119209
   yaw: -48.309814
   pitch: 9.506982
+Mina:
+  world: world
+  x: 22.250262208949245
+  y: -57.0
+  z: 680.3000000119209
+  yaw: 1.9228516
+  pitch: 8.849921
