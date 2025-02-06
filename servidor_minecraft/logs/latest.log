@@ -348,3 +348,5 @@
 [00:58:40] [Server thread/INFO]: WillianFengler joined the game
 [00:58:40] [Server thread/INFO]: WillianFengler[/127.3.189.19:37351] logged in with entity id 42 at ([world]-267.1703314722809, 123.0, -342.68157652913675)
 [00:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[01:03:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[01:04:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
