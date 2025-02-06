@@ -465,3 +465,7 @@ hh<--[HERE]
 [05:02:25] [Server thread/INFO]: TomyXRlp issued server command: /h
 [05:03:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
 [05:04:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[05:13:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[05:14:52] [Server thread/INFO]: [HavenBags] Saving bags.
+[05:14:52] [Server thread/INFO]: [HavenBags] Bags saved.
+[05:14:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
