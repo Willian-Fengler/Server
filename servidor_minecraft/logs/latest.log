@@ -473,3 +473,8 @@ jdjdjd<--[HERE]
 [14:55:42] [Server thread/INFO]: WillianFengler issued server command: /h
 [14:58:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
 [14:59:40] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[15:04:54] [Server thread/INFO]: WillianFengler issued server command: /h
+[15:08:40] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[15:09:35] [Server thread/INFO]: [HavenBags] Saving bags.
+[15:09:35] [Server thread/INFO]: [HavenBags] Bags saved.
+[15:09:40] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
