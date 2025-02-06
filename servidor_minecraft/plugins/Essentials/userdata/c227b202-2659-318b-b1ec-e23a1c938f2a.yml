@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1738796959112
-  login: 1738803520260
+  logout: 1738810298298
+  login: 1738809982012
 money: '0'
 logoutlocation:
   world: 3ad34e78-23bd-4e8c-910e-f1a46eb4ca89
   world-name: world
-  x: -267.1703314722809
-  y: 123.0
-  z: -342.68157652913675
-  yaw: -142.65005493164062
-  pitch: 29.849945068359375
+  x: -268.7585473611671
+  y: 123.5625
+  z: -342.38893951061834
+  yaw: 68.39999389648438
+  pitch: 23.100004196166992
 last-account-name: WillianFengler
 lastlocation:
   world: 3ad34e78-23bd-4e8c-910e-f1a46eb4ca89
