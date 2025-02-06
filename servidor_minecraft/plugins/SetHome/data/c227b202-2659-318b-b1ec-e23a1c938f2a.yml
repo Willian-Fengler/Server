@@ -4,6 +4,7 @@ homes:
 - lobos_vacas
 - Aldeanos
 - Granja_De_Hierro
+- Lava
 spawn:
   world: world
   x: -15.742916495584977
@@ -39,3 +40,10 @@ Granja_De_Hierro:
   z: -349.88091686785026
   yaw: -164.40932
   pitch: 55.510616
+Lava:
+  world: world
+  x: 8.401856028422243
+  y: -54.0
+  z: 702.3000000119209
+  yaw: -48.309814
+  pitch: 9.506982
