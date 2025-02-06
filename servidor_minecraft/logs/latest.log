@@ -425,3 +425,15 @@
 [03:33:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
 [03:34:52] [Server thread/INFO]: [HavenBags] Saving bags.
 [03:34:52] [Server thread/INFO]: [HavenBags] Bags saved.
+[03:34:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
+[03:38:04] [User Authenticator #2/INFO]: UUID of player TomyXRlp is fabc4a42-0993-3384-b5b5-0703afa15975
+[03:38:05] [Server thread/INFO]: TomyXRlp joined the game
+[03:38:05] [Server thread/INFO]: TomyXRlp[/127.126.150.49:38469] logged in with entity id 28508 at ([world]-232.79238239454537, 128.0, -385.1466422034583)
+[03:38:26] [Server thread/INFO]: TomyXRlp issued server command: /HIME
+[03:38:30] [Server thread/INFO]: TomyXRlp issued server command: /HOME
+[03:38:33] [Server thread/INFO]: TomyXRlp issued server command: /home
+[03:38:42] [Server thread/INFO]: TomyXRlp issued server command: /h
+[03:42:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+hh<--[HERE]
+[03:43:57] [Server thread/INFO]: [Minetorio] All devices saving in 60 seconds.
+[03:44:57] [Server thread/INFO]: [Minetorio] Saving: 0 devices in 0 batches, happening over 0.0 seconds. (Saves Per Tick - 5)
